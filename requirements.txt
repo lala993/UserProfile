@@ -1,0 +1,3 @@
+django #pip install django
+firebase-admin #>pip install django djangorestframework firebase-admin
+djangorestframework-simplejwt #pip install djangorestframework-simplejwt
